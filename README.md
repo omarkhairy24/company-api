@@ -1,5 +1,3 @@
-# Project Name
-
 ## Tools
 - **Express.js**
 - **PostgreSQL**
