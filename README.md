@@ -1,47 +1,54 @@
-## Tools:
-    .expressjs
-    .postgresql
-    .multer
-    .bcrypt
-    .json-web-token
+# Project Name
 
+## Tools
+- **Express.js**
+- **PostgreSQL**
+- **Multer**
+- **Bcrypt**
+- **JSON Web Token**
 
-## Features:
-     - Authentication
+---
 
-        | Feature                 | Coded?  |
-        | ----------------------- | ------ :|
-        | Signup                  |  ✔️     |
-        | Login                   |  ✔️     |
+## Features
 
+### Authentication
+| Feature | Coded? |
+|---------|--------|
+| Signup  | ✔️      |
+| Login   | ✔️      |
 
-    -company information
-        | Feature           | Coded?  |
-        | ----------------- | ------ :|
-        | Add info          |  ✔️     |
-        | Edit  info        |  ✔️     |
-        | Delete  info      |  ✔️     |
+---
 
+### Company Information
+| Feature      | Coded? |
+|--------------|--------|
+| Add Info     | ✔️      |
+| Edit Info    | ✔️      |
+| Delete Info  | ✔️      |
 
-    -approvals
-        | Feature        | Coded?  |
-        | -------------- | ------ :|
-        | Add            |  ✔️     |
-        | Edit           |  ✔️     |
-        | Delete         |  ✔️     |
+---
 
+### Approvals
+| Feature | Coded? |
+|---------|--------|
+| Add     | ✔️      |
+| Edit    | ✔️      |
+| Delete  | ✔️      |
 
-    -service
-        | Feature        | Coded?  |
-        | -------------- | ------ :|
-        | Add            |  ✔️     |
-        | Edit           |  ✔️     |
-        | Delete         |  ✔️     |
+---
 
+### Services
+| Feature | Coded? |
+|---------|--------|
+| Add     | ✔️      |
+| Edit    | ✔️      |
+| Delete  | ✔️      |
 
-     -service information
-        | Feature        | Coded?  |
-        | -------------- | ------ :|
-        | Add            |  ✔️     |
-        | Edit           |  ✔️     |
-        | Delete         |  ✔️     |
+---
+
+### Service Information
+| Feature | Coded? |
+|---------|--------|
+| Add     | ✔️      |
+| Edit    | ✔️      |
+| Delete  | ✔️      |
